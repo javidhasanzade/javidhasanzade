@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javidhasanzade
-- 👀 I’m interested in software/web development for 3 years.
-- 🌱 I’m currently learning Full-stack web development.
+- 👀 I’m interested in software development for 4 years. 
+- 🌱 I’m currently focusing on AI.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me - javidhasanzade.dev@gmail.com
 
