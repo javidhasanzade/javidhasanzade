@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javidhasanzade
-- 👀 I’m interested in software development for 4 years. 
-- 🌱 I’m currently focusing on AI.
+- 👀 I’m interested and experienced in software engineering for 4 years. 
+- 🌱 I’m currently focusing on Data Science(AI, ML, DL).
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me - javidhasanzade.dev@gmail.com
 
