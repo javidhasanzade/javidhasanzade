@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Javid Hasanzade" />
+</h1>
+
 - 👋 Hi, I’m @javidhasanzade
 - 👀 I’m interested and experienced in software engineering for 4 years. 
 - 🌱 I’m currently focusing on Data Science(AI, ML, DL).
