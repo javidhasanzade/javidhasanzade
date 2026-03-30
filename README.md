@@ -78,11 +78,6 @@ Here are a few areas I like to showcase through my repositories:
 ---
 
 ## GitHub Stats
-
-![Javid's GitHub stats](https://github-readme-stats.vercel.app/api?username=javidhasanzade&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javidhasanzade&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=javidhasanzade)
 
 ---
